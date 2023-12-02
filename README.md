@@ -1,5 +1,5 @@
 # UX_Criando_Prototipo_Navegavel
-Penúltimo Projeto aonde é realizado um Mock-up navegável em Figma.
+Penúltimo Projeto aonde é realizado um Mock-up navegável em Figma, para o Desafio da Dio.me - curso de UX Designer.
 
 Link do Projeto
 https://www.figma.com/file/S28rtrVUiyti7pRGWp1pJP/Guia-de-Aventureiros?type=design&node-id=0%3A1&mode=design&t=asVwxfwLRgiqmXY0-1
